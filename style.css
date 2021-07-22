@@ -1,0 +1,30 @@
+#myname{
+    color: white;
+    background-color: rgba(#00000);
+    font-size: 60px;
+    text-align: center;    
+         
+  }
+  #me{
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: right;
+    width: 25%;
+    background-color: white;
+  }
+  #dreamer{
+      font-size: 20px;
+  }
+  #world{
+      text-align: center;
+      color: green;
+  }
+  li, p, #skills, h3, h5 {
+    color: white;
+}
+  body {  
+      background-image: url(images/space.jpg); 
+    }
+
+ 
